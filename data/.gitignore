@@ -1,0 +1,6 @@
+# ignore all obj and bin folders (even in subdirectories)
+*.DS_Store
+*.pyc
+build
+dataset1/*
+dataset2/*
